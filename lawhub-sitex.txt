@@ -1,0 +1,62 @@
+lawhub-site/
+├── <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LawHub Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to LawHub</h1>
+    <p>Your legal knowledge hub</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>LawHub is a platform for sharing legal knowledge and resources.</p>
+    </section>
+    <section>
+      <h2>Contact</h2>
+      <p>Email: contact@lawhub.com</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 LawHub</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
+├── body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+}
+
+main {
+  padding: 20px;
+}
+
+h1 {
+  color: #4CAF50;
+}
+├── console.log('LawHub Site is up and running!');
+└── # LawHub Site
+
+This is a simple website for the LawHub project.
+
+## Structure
+- index.html
+- style.css
+- script.js
+
+## How to run
+Open index.html in a browser or deploy via GitHub Pages.
