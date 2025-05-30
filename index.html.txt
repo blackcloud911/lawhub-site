@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LawHub Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to LawHub</h1>
+    <p>Your legal knowledge hub</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>LawHub is a platform for sharing legal knowledge and resources.</p>
+    </section>
+    <section>
+      <h2>Contact</h2>
+      <p>Email: contact@lawhub.com</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 LawHub</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
